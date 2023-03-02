@@ -5,4 +5,7 @@
 
 # Data Modeling
 - Involves inspecting CSV files and creating the schema for an ER diagram.
-- This section includes the files 
+- This section includes the files ERDiagram.png and DiagramText.txt
+
+# Data Engineering
+- Involves creating a table schema for each of the six files and importing each csv into an SQL table.
